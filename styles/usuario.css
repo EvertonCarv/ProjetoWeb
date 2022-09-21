@@ -1,0 +1,11 @@
+.cabeçalho
+    {
+        background-color: var(--cor-de-fundo)
+    }
+
+.cabeçalho__logo 
+    {
+        display: flex;
+        width: 30%;
+        margin: 5em auto;        
+    }
