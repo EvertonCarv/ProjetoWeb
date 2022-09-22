@@ -1,3 +1,7 @@
+
+
+
+
 .cabeçalho__usuario
     {
         background-color: var(--cor-de-fundo)
@@ -7,5 +11,12 @@
     {
         display: flex;
         width: 30%;
-        margin: 5em auto;        
+        margin: 5em auto;    
+        border-radius: 20px
+    }
+
+.form-signin
+    {
+        display: flex;
+        text-align: center;
     }
