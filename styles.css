@@ -1,9 +1,10 @@
 @import url("styles/header.css");
 @import url("styles/usuario.css");
-@import url("styles/carrossel.css");
-@import url("styles/topicos.css");
+@import url("styles/home.css");
+@import url("styles/main.css");
 @import url("styles/contato.css");
 @import url("styles/rodape.css");
+@import url("styles/banner.css");
 
 :root
     {
@@ -26,3 +27,5 @@ body
         font-size: 16px;
         font-weight: 400;
     }
+
+
