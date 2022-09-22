@@ -6,7 +6,7 @@
         background-repeat: no-repeat;
         background-position: center;
         margin: 10px 10px 0 0;
-        display: inline-block; /*permite ajuste de largura e altura*/                
+        display: inline-block; /*permite ajuste de largura e altura*/                      
     }
 
 .container__botao:checked ~ .container__rotulo > .cabeçalho__menu-hamburguer 
