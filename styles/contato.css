@@ -84,3 +84,19 @@ td, th
         border: 1px solid #000000;
         padding: 5px 30px;
     }
+
+@media screen and (min-width: 1024px)
+    {
+        .contato
+            {
+                width: 50%;
+                height: 30%;
+                margin-left: 25.5%;
+            }
+        
+        .contato h2 
+            {
+                font-size: 2em;
+            }
+    
+    }

@@ -39,6 +39,36 @@
        cursor: pointer;
     }
 
+@media screen and (min-width: 1024px)
+    {
+        .panel-default
+            {
+                font-family: var(--fonte-principal);
+                width: 40%;               
+                margin-left: 30%;
+                padding-left: 2em;
+
+            }
+        
+        .panel-default h3 
+            {
+                font-size: 2em;
+                font-weight: 700;
+            }
+
+        .form-control
+            {
+                width: 150%;                
+            }
+        
+        .control-label 
+            {
+                font-size: 1em;
+                font-weight: 500;                
+            }
+    
+    }
+
 
 
     
