@@ -1,7 +1,4 @@
 
-
-
-
 .cabeçalho__usuario
     {
         background-color: var(--cor-de-fundo)
@@ -20,3 +17,4 @@
         display: flex;
         text-align: center;
     }
+
