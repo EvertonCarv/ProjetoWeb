@@ -27,7 +27,6 @@
 
 .card__descrição 
     {
-        display: flex;
         justify-content: space-between; /*espaçamento entre os itens das colunas*/
         margin-bottom: 0.5em;
     }
