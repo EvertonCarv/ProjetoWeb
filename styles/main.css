@@ -17,6 +17,7 @@
 
 .card__descrição 
     {
+        display: inline-block;
         background: var(--branco);
         font-family: var(--fonte-principal);
         font-size: 0.8em;  
