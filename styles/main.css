@@ -93,8 +93,10 @@
 
         .mapa__google
             {
-                width: 1024px;
-                margin-left: 23%; 
+                width: 80%;
+                margin-left: 10%; 
                 height: 20em;                               
             }
     }
+
+ 
